@@ -9,7 +9,7 @@
 #--------------------------
 title: J's CodingLog                          # the main title
 
-tagline: IT/Algorithm 정리 블로그  # it will display as the sub-title
+tagline: IT/알고리즘 정리 블로그  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
